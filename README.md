@@ -1,2 +1,5 @@
 # python
-Python code repo
+This repo is used for the learning of QuantEcon Python Code
+
+- QuantEcon JAX lecture series
+  - Aiyagari
